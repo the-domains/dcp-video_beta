@@ -1,0 +1,28 @@
+name: DCP Video_beta
+favicon: null
+layout_spectrum: 0.4912412469275296
+typography_spectrum: 0.20579526759684086
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3554522003978491
+  lightness: 0.9801968520041555
+  saturation: 0.18574444041587412
+  rhythmicContrast: 0.1172434613108635
+purpose: []
