@@ -1,6 +1,6 @@
 name: DCP Video_beta
 favicon: null
-layout_spectrum: 0.4912412469275296
+layout_spectrum: 0.34338
 typography_spectrum: 0.20579526759684086
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.3554522003978491
+  brandStrength: 0.5
   lightness: 0
   saturation: 0
   rhythmicContrast: 1
